@@ -1,0 +1,20 @@
+.dropdown-toggle::after {
+    display: none;
+}
+
+.navbar-nav li:hover .dropdown-menu {
+    display: block;
+}
+
+#photoSection {
+    padding-top: 2rem;
+}
+
+/* #photoCards .card {
+    padding-left: 1rem;
+    padding-right: 1rem;
+} */
+
+#photoCards img {
+    margin-top: 1rem;
+}
