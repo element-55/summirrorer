@@ -6,15 +6,27 @@
     display: block;
 }
 
+/* .carousel-inner img {
+    height: 40rem;
+} */
+
 #photoSection {
+    padding-top: 1rem;
+}
+
+#photographs {
     padding-top: 2rem;
 }
 
-/* #photoCards .card {
-    padding-left: 1rem;
-    padding-right: 1rem;
-} */
 
 #photoCards img {
     margin-top: 1rem;
+}
+
+#films {
+    padding-top: 2rem;
+}
+
+#films iframe {
+    padding-top: 1rem;
 }
