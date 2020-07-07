@@ -6,10 +6,6 @@
     display: block;
 }
 
-/* .carousel-inner img {
-    height: 40rem;
-} */
-
 #photoSection {
     padding-top: 1rem;
 }
@@ -17,7 +13,6 @@
 #photographs {
     padding-top: 2rem;
 }
-
 
 #photoCards img {
     margin-top: 1rem;
