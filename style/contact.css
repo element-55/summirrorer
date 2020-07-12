@@ -1,0 +1,21 @@
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.navbar-nav li:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar {
+    padding-bottom: 1rem;
+}
+
+#contactForm {
+    padding-top: 1rem;
+}
+

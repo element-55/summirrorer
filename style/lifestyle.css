@@ -30,35 +30,15 @@
     display: block;
 }
 
-#photoSection {
-    padding-top: 1rem;
+#lifestyle {
+    margin-bottom: 1rem;
 }
 
-#photographs {
-    padding-top: 2rem;
+#fashion {
+    margin-bottom: 1rem;
 }
 
-#photoCards img {
-    margin-top: 1rem;
+#makeup {
+    margin-bottom: 1rem;
 }
-
-#films {
-    padding-top: 2rem;
-}
-
-#films iframe {
-    padding-top: 1rem;
-}
-/* 
-.footer {
-    position: fixed;
-    width: 100%;
-    height: 2rem;
-    bottom: 0;
-    background-color: #f5f5f5;
-    margin-top: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    text-align: center;
-} */
 
